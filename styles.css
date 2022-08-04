@@ -1,0 +1,100 @@
+.color-container {
+    padding: 0px 0px 30px 0px;
+    margin: 10px;
+
+
+
+}
+.container {
+    border: 2px solid #a2a2a6 ;
+    padding: 10px;
+    margin: 10px auto;
+}
+.brown {
+    background-color: rgb(199, 192, 183);
+    text-align: center;
+}
+.grisesito {
+    background-color: rgb(191, 192, 193);
+}
+.beige {
+    background-color: rgb(220, 220, 209);
+}
+.verdi {
+    background-color: rgb(61, 91, 81);
+}
+.vino {
+    background-color: rgb(101, 39, 39);
+}
+.color-container div {
+    display: inline-block;
+    padding: 1%;
+    text-align: center;
+    border: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    margin-top: 20px 0px;
+}
+#desc {
+    font-size: 15px;
+    font-weight: 200;
+}
+h2 {
+    font-family: Oswald;
+    font-weight: 500;
+    font-size: 30px;
+}
+h3 {
+    text-decoration: underline;
+}
+.source-sans {
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+#source {
+    font-weight: 200;
+
+}
+#source1 {
+    font-weight: 600;
+}
+#source2 {
+    font-style: italic;
+    font-weight: 200;
+}
+#uchen400 {
+    font-family: "Uchen";
+    font-weight: 400;
+}
+.font-container div {
+    display: inline-block;
+    padding: 2%;
+    margin: auto;
+}
+.oswald {
+    font-family: "Oswald";
+}
+#os1 {
+    font-weight: 200;
+
+}
+#os2 {
+    font-weight: 300;
+}
+#os3 {
+    font-weight: 700;
+}
+h1 {
+    font-family: "Source Sans Pro";
+    font-size: 40px;
+    font-weight: 700;
+}
+p {
+    font-weight: 400;
+    font-size: 15px;
+    font-family: "Uchen";
+}
